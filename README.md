@@ -8,11 +8,6 @@ Cloned from [cg-monitor](https://github.com/Waley-Z/cg-monitor). This program mo
 
 ## Getting Started
 
-- Install `bs4`
-    ```bash
-    $ pip3 install bs4
-    ```
-
 - Configure `SENDER_EMAIL`, `SENDER_PASSWORD`, `RECEPIENT_EMAILS`, and `UPDATE_INTERVAL` in `monitor.py`.
 
 - Run the script
